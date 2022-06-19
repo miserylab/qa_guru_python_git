@@ -1,9 +1,9 @@
 __author__ = 'miserylab'
 
 
-def test_0():
+def test_one():
     assert 2 > 1
 
 
-def test_1():
+def test_two():
     assert 3 > 1
