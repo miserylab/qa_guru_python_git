@@ -1,5 +1,4 @@
 __author__ = 'miserylab'
 
-
-def first_test():
+def test_1():
     assert 2 > 1
